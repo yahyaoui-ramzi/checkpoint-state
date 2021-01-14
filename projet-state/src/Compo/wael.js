@@ -3,7 +3,7 @@ import React from 'react';
 function CA (){
     return(
         <div>
-            <h1>dokhaw wfe w 5alti salketheli hmd hd </h1>
+            <h1>salut waeoul cc amrouch ya maalem</h1>
         </div>
     )
 }
