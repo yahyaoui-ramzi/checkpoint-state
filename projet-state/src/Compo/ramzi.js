@@ -1,14 +1,11 @@
 import React from 'react'
 
-const ramzi = () => {
+
+const Edit =()=>{
     return (
         <div>
-            hello wael cava wino amer jaballah oh ya 3amer ana barcha charb 
+            <h1>ramzi ya miboun </h1>
         </div>
     )
-
-
-
-
 }
-export default App ;
+export default Edit ;
